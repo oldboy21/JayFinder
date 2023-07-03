@@ -1,0 +1,8 @@
+C:\Users\vsant\Github\OffensiveC-Scripts\JayFinder\JayFinder\JayFinder\bin\Debug\JayFinder.exe.config
+C:\Users\vsant\Github\OffensiveC-Scripts\JayFinder\JayFinder\JayFinder\bin\Debug\JayFinder.exe
+C:\Users\vsant\Github\OffensiveC-Scripts\JayFinder\JayFinder\JayFinder\bin\Debug\JayFinder.pdb
+C:\Users\vsant\Github\OffensiveC-Scripts\JayFinder\JayFinder\JayFinder\obj\Debug\JayFinder.csproj.AssemblyReference.cache
+C:\Users\vsant\Github\OffensiveC-Scripts\JayFinder\JayFinder\JayFinder\obj\Debug\JayFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\vsant\Github\OffensiveC-Scripts\JayFinder\JayFinder\JayFinder\obj\Debug\JayFinder.csproj.CoreCompileInputs.cache
+C:\Users\vsant\Github\OffensiveC-Scripts\JayFinder\JayFinder\JayFinder\obj\Debug\JayFinder.exe
+C:\Users\vsant\Github\OffensiveC-Scripts\JayFinder\JayFinder\JayFinder\obj\Debug\JayFinder.pdb
