@@ -12,4 +12,4 @@ C:\>JayFinder.exe C:\StartingFolder
 ```
 Then you can expect an output similar to this one
 
-![image info](./img/output.png)
+![image info](./img/joutput.png)
